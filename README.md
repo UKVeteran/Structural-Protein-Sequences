@@ -34,7 +34,14 @@ Create an automated classification system that predicts protein categories by an
 
 3) Scalable Application to Broaden Scientific Knowledge: The model allows the categorization of large volumes of protein data, contributing to new insights on unexplored proteins and promoting advancements in biotechnology and healthcare.
 
+# EDA
+![ProteinClasses](https://github.com/user-attachments/assets/4019c815-4478-49af-9c94-c1eee7d8ed90)
 
+![Macromolecule Type](https://github.com/user-attachments/assets/d76077e2-5033-4076-921b-043c6607bd64)
 
+![Histos](https://github.com/user-attachments/assets/dc903ac6-65ac-473d-a11c-943751088fb1)
 
+![DistributionofClassifications](https://github.com/user-attachments/assets/962dddc6-7eae-40f6-99f4-06da527c97c4)
+
+![Publication Trends of Protein Structures Over Time](https://github.com/user-attachments/assets/75d51c49-c7e8-427d-abf6-c5a62b714e2f)
 
