@@ -27,8 +27,12 @@ data_seq.csv contains >400,000 protein structure sequences.
 # Aim
 Create an automated classification system that predicts protein categories by analyzing structural and experimental variables. This system will streamline protein screening, accelerating the discovery of candidate proteins for novel drugs and therapeutic solutions.
 
+# Benefits
+1) Reduction in Time and Cost of Drug Discovery: By automating protein classification, researchers can focus on proteins with the highest potential for specific treatments, saving time and resources.
 
+2) Increased Precision in Candidate Selection: With an accurate classification model, it’s possible to identify proteins that share structural characteristics with disease target proteins, improving the precision of viable proteins for laboratory testing.
 
+3) Scalable Application to Broaden Scientific Knowledge: The model allows the categorization of large volumes of protein data, contributing to new insights on unexplored proteins and promoting advancements in biotechnology and healthcare.
 
 
 
