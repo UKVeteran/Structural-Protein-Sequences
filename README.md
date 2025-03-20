@@ -23,4 +23,14 @@ pdb_data_no_dups.csv contains protein meta data which includes details on protei
 ## File 2
 data_seq.csv contains >400,000 protein structure sequences.
 
-​
+
+# Aim
+Create an automated classification system that predicts protein categories by analyzing structural and experimental variables. This system will streamline protein screening, accelerating the discovery of candidate proteins for novel drugs and therapeutic solutions.
+
+
+
+
+
+
+
+
